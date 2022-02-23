@@ -4,7 +4,7 @@ import DisplayBalance from './DisplayBalance'
 
 function DisplayBalances() {
   return (
-    <Segment testAlign="center">
+    <Segment textAlign="center">
       <Grid columns={2} divided>
         <Grid.Row>
           <Grid.Column>
